@@ -1,2 +1,5 @@
 
 .DS_Store
+express/package.json
+express/package-lock.json
+express/node_modules
